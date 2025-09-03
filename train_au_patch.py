@@ -149,6 +149,7 @@
 # wandb.finish()
 # print("Training Complete.")
 
+### 2nd Variant ###
 
 import os
 import time
