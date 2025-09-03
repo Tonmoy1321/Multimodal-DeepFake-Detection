@@ -137,6 +137,7 @@
 # print("Training Complete.")
 
 
+### 2nd Variant ###
 
 # import os
 # import math
@@ -383,6 +384,8 @@
 
 # print("Training Complete.")
 
+
+### ArcFace ###
 
 # train_auface_arcface_cbfocal.py
 
